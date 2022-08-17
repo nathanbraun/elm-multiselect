@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "inkuzmin/elm-multiselect",
+    "name": "nathanbraun/elm-multiselect",
     "summary": "multiselect control",
     "license": "BSD-3-Clause",
-    "version": "4.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Multiselect"
     ],
