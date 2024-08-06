@@ -105,7 +105,7 @@ input =
         , Css.lineHeight (px 14)
         , Css.outlineStyle none
         , Css.fontSize Css.inherit
-        , Css.lineHeight (int 1)
+        , Css.lineHeight (px 10)
         , Css.padding Css.zero
         , Css.paddingTop (px 8)
         ]
@@ -122,7 +122,7 @@ inputMirrow =
         , Css.fontWeight Css.normal
         , Css.fontStyle Css.normal
         , Css.fontSize Css.inherit
-        , Css.lineHeight (int 1)
+        , Css.lineHeight (px 10)
         ]
 
 
